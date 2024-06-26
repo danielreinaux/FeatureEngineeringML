@@ -73,15 +73,11 @@ Clientes com um gasto médio por transação podem ser considerados para campanh
 
 Essas variáveis podem revelar padrões sazonais ou tendências ao longo do tempo, que serão úteis para prever o comportamento dos clientes. 
 
-### 6.1 Média de Valor Gasto nas Categorias nos Últimos 3 meses:
+### 6.1 Média de Valor Gasto nas Categorias nos Últimos 3, 6 e 9 meses:
 
 ![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/4272b941-5a3d-4249-b4fd-b021d41c8e66)
 
-### 6.2 Média de Valor Gasto nas Categorias nos Últimos 6 meses:
-
-![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/d5f19f41-9f38-4d10-9d6f-211d2ff2d246)
-
-### 6.3 Média do Valor Gasto nas Categorias nos Últimos 9 meses:
+![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/978d3598-7a21-423d-8fa8-09f3e77f31f7)
 
 ![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/2a1ef6c1-de01-4dbe-b9c9-a60e44625eee)
 
