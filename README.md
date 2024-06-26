@@ -81,4 +81,11 @@ Essas variáveis podem revelar padrões sazonais ou tendências ao longo do temp
 
 ![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/2a1ef6c1-de01-4dbe-b9c9-a60e44625eee)
 
+### 7. Tabela final:
+
+A tabela final é uma combinação dos dados cadastrais e transacionais dos clientes, projetada para fornecer uma visão abrangente e detalhada do comportamento e perfil dos clientes. 
+Ela vai trazer algumas implicações para o Negócio:
+* Segmentação de Clientes: A tabela permite uma segmentação detalhada dos clientes, com base em diversas métricas
+* Personalização de Marketing: Compreender as preferências e o comportamento de compra permite a criação de campanhas de marketing mais personalizadas e eficazes.
+* Prevenção de Churn: Identificar padrões de comportamento que precedem o churn permite a criação de estratégias proativas de retenção.
 
