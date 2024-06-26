@@ -20,7 +20,6 @@ A tabela df_transacoes é detalhada em nível de transação, fornecendo uma vis
 ![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/937bd260-4343-4889-a6b2-d2edaf868b44)
 
 
-
 E
 
 ### 3.2 df_publico
@@ -63,5 +62,27 @@ Essa variável ajudar a entender quais os clientes que mais gastam. Clientes que
 
 ![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/c4378578-f38c-46b2-9722-c4486a5a6430)
 
-### 
+### 5.3 Gasto Médio por Transação:
+
+Variável importante para entender o ticket médio do seu público. Entender, além disso, o comportamento de compra dos clientes, identificando aqueles que realizam compras de maior valor. 
+Clientes com um gasto médio por transação podem ser considerados para campanhas de marketing específicas, como ofertas exclusivas.
+
+![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/2427710b-5bdc-4b0a-8206-eab4ff8a1dd9)
+
+## 6. Criação de Variáveis Explicativas Relacionadas ao Tempo?
+
+Essas variáveis podem revelar padrões sazonais ou tendências ao longo do tempo, que serão úteis para prever o comportamento dos clientes. 
+
+### 6.1 Média de Valor Gasto nas Categorias nos Últimos 3 meses:
+
+![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/4272b941-5a3d-4249-b4fd-b021d41c8e66)
+
+### 6.2 Média de Valor Gasto nas Categorias nos Últimos 6 meses:
+
+![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/d5f19f41-9f38-4d10-9d6f-211d2ff2d246)
+
+### 6.3 Média do Valor Gasto nas Categorias nos Últimos 9 meses:
+
+![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/2a1ef6c1-de01-4dbe-b9c9-a60e44625eee)
+
 
