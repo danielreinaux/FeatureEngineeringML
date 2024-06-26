@@ -12,8 +12,11 @@ Objetivos:
 * Criar variáveis explicativas para modelos de machine learning.
 
 Descrição das tabelas: 
+
 ![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/937bd260-4343-4889-a6b2-d2edaf868b44)
+
 E
+
 ![image](https://github.com/danielreinaux/FeatureEngineeringML/assets/91274263/d4d3c946-3d47-468d-b783-05832309ef62)
 
 
